@@ -105,3 +105,4 @@ if __name__ == '__main__':
     makaut = Makaut()
     makaut.login()
     makaut.display_marks()
+    input('press enter to continue...')
