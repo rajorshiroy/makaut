@@ -43,3 +43,8 @@ Prints your assignment and unit test marks in a tabular form
 ## Demo:
 
 <img src="https://raw.githubusercontent.com/rajorshiroy/assets/master/makaut-assignment-marks.png" width="1000">
+
+## Windows Release:
+
+If you want to run the program directly without python or any other dependency on your windows pc, download the latest build from the bilow link:
+https://github.com/rajorshiroy/makaut/releases
