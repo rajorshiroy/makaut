@@ -1,18 +1,8 @@
 import os
 import json
-
-try:
-    import requests
-    from bs4 import BeautifulSoup
-    from tabulate import tabulate
-except ModuleNotFoundError:
-    # install the third party modules
-    os.system('pip install bs4 requests tabulate')
-
-    # re import the installed modules
-    import requests
-    from bs4 import BeautifulSoup
-    from tabulate import tabulate
+import requests
+from bs4 import BeautifulSoup
+from tabulate import tabulate
 
 
 class Makaut:
