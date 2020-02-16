@@ -46,5 +46,5 @@ Prints your assignment and unit test marks in a tabular form
 
 ## Windows Release:
 
-If you want to run the program directly without python or any other dependency on your windows pc, download the latest build from the bilow link:
+If you want to run the program directly without python or any other dependency on your windows pc, download the latest build from the link below:
 https://github.com/rajorshiroy/makaut/releases
